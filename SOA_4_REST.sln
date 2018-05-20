@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOA_4_REST", "SOA_4_REST\SOA_4_REST.csproj", "{62F4B5AF-88A9-4956-A7EF-5AAE5D5B40C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{9E1274DD-C3A4-47E5-8531-1125E4CF591C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookRepository", "BookRepository\BookRepository.csproj", "{BE51DC27-5644-4A77-A721-4FF76E25F413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62F4B5AF-88A9-4956-A7EF-5AAE5D5B40C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F4B5AF-88A9-4956-A7EF-5AAE5D5B40C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F4B5AF-88A9-4956-A7EF-5AAE5D5B40C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F4B5AF-88A9-4956-A7EF-5AAE5D5B40C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E1274DD-C3A4-47E5-8531-1125E4CF591C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E1274DD-C3A4-47E5-8531-1125E4CF591C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E1274DD-C3A4-47E5-8531-1125E4CF591C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E1274DD-C3A4-47E5-8531-1125E4CF591C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE51DC27-5644-4A77-A721-4FF76E25F413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE51DC27-5644-4A77-A721-4FF76E25F413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE51DC27-5644-4A77-A721-4FF76E25F413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE51DC27-5644-4A77-A721-4FF76E25F413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA6B2226-5C92-48F9-B243-E43BAA3E3A80}
+	EndGlobalSection
+EndGlobal
